@@ -6,7 +6,7 @@ class Automess():
         self.api_id = 9958356
         self.api_hash = "8895b2a2b674f00658660440ef8adcbb"
         self.admins = [697798016]
-        self.key = {"Shakal":697798016}
+        self.key = {}
         # Конфиг
         self.privetstvie = ['hi','hello','hey','пр',"привет","доров","здрасте","приветик","ку"]
         self.otvet = ["Hi","Приветик","Ку","Привет"]
